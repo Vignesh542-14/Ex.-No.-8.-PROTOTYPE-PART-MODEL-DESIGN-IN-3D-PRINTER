@@ -51,8 +51,8 @@
 <img width="1918" height="1135" alt="image" src="https://github.com/user-attachments/assets/f561f3a8-5af0-4b3b-ab62-08571388dd2d" />
 
 
-### Name:SANTHANAM S
-### Register Number:212224040293
+### Name:VIGNESH P
+### Register Number:212224230302
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
